@@ -1,5 +1,9 @@
 # Final-Project
 
+The source for pytesseract `.exe` file is https://drive.google.com/drive/folders/1teiBNEoSiSJHn83OxJayb-gJ-7Lqhfzb?usp=sharing
+
+The dataset can be accessed here https://drive.google.com/file/d/1Dvfv8VW8CEhTcidQPbJiA5bh_ICbBwfE/view?usp=sharing
+
 This is the manual for the code that is added into this gitHub repository. This repository contains the project that is titled as `Judging a book by its cover`. This is a Deep Learning project that uses Long Short Term Memory (LSTM) model to classify the text taken from the cover page of a book, into a respective genre. This genre is used for various purposes. 
 
 The `model.ipynb` script analyzes the text extracted from book covers to predict the genre of the book and conduct a sentiment analysis of the extracted text. It uses various Python libraries including pytesseract, Pillow, textblob, pandas, numpy, keras, and sklearn.
