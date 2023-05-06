@@ -1,5 +1,7 @@
 # Final-Project
 
+To access the files from the below url, you need to open the link through your `@uncc.edu` account. 
+
 The source for pytesseract `.exe` file is https://drive.google.com/drive/folders/1teiBNEoSiSJHn83OxJayb-gJ-7Lqhfzb?usp=sharing
 
 The dataset can be accessed here https://drive.google.com/file/d/1Dvfv8VW8CEhTcidQPbJiA5bh_ICbBwfE/view?usp=sharing
